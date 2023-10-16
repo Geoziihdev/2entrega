@@ -1,0 +1,56 @@
+.html body{
+margin:0;
+padding: 0;    
+}
+
+.header{
+background-color: rgb(129, 128, 133);
+height: 200px;
+padding: 100px;
+width: 1100px;
+font-family: roboto,sans-serif;
+}
+
+.tituloprincipal{
+color:blue;
+font-size:xx-large;
+
+
+}
+
+.logo{ 
+border-radius: 100px;
+}
+
+.menu a {
+position: relative;
+height: 20px;
+padding: auto;
+display: inline;
+list-style:none ;
+cursor: pointer;
+padding: 8px;
+
+
+}
+.menu{  
+position:relative;
+left: 300px;
+bottom: 80px;
+
+}
+
+.card{
+padding: 10px;
+left: 50px;
+
+}
+
+
+
+
+
+
+
+
+
